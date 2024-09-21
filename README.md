@@ -44,4 +44,4 @@ Documation: [Check here](https://documenter.getpostman.com/view/38165210/2sAXjRW
 
 ## Output of Report File
 
-<img src="www.google.com">
+![Report](https://github.com/ashakur-rasel/Dmoney-API-testing-using-Postman/blob/main/Newman_Report.png)
